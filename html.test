@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>My Easy HTML Program</title>
+</head>
+<body>
+  <h1>Hello, World!</h1>
+  <p>This is a simple HTML web page.</p>
+</body>
+</html>
